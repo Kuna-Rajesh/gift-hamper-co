@@ -2,15 +2,8 @@ import React from 'react';
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import logo from '../assets/images/giftHamperCo_Logo.jpg';
-import Home_food from '../assets/images/Home_left.webp';
-import sec2i1 from '../assets/images/sec2i1.webp';
-import sec2i2 from '../assets/images/sec2i2.webp';
-import sec2i3 from '../assets/images/sec2i3.webp';
 import sec3i1 from '../assets/images/sec3i1.webp';
 import sec3i2 from '../assets/images/sec3i2.webp';
-import sec3i3 from '../assets/images/sec3i3.webp';
-import sec3i4 from '../assets/images/sec3i4.webp';
-import footerlogo from '../assets/images/footerlogo.webp';
 import footerfb from '../assets/images/footerfb.webp';
 import footerinsta from '../assets/images/footerinsta.webp';
 import footerpintrest from '../assets/images/footerpintrest.webp';
@@ -63,13 +56,13 @@ const Home = () => {
           </div>
           <p className='head2food'>POPULAR CITIES IN INDIA</p>
           <div className='listbox'>
-            <a className='city' href="#">Ahmedabad</a>
-            <a className='city' href='#'>Bangalore</a>
-            <a className='city' href='#'>Chennai</a>
-            <a className='city' href='#'>Delhi</a>
-            <a className='city' href='#'>Hyderabad</a>
-            <a className='city' href='#'>Kolkata</a>
-            <a className='city' href='#'>& more.</a>
+            <a className='city' href="https://kuna-rajesh.github.io/SampleRes/#portfolio">Ahmedabad</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>Bangalore</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>Chennai</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>Delhi</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>Hyderabad</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>Kolkata</a>
+            <a className='city' href='https://kuna-rajesh.github.io/SampleRes/#portfolio'>& more.</a>
           </div>
         </div>
       </div>
@@ -115,7 +108,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>BEST WISHES</h2>
 					<p>Use the language of gift hampers to send your love</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
       <div className="work">
@@ -123,7 +116,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>ANNIVERSARY AMORE</h2>
 					<p>As special as the bond that blooms</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
       <div className="work">
@@ -131,7 +124,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>BIRTHDAY SOIREE</h2>
 					<p>Making floral wishes come true</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
       <div className="work">
@@ -139,7 +132,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>BEST WISHES</h2>
 					<p>Use the language of gift hampers to send your love</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
       <div className="work">
@@ -147,7 +140,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>PROPOSAL</h2>
 					<p>Glorious arrangement o express your gesture</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
       {/* edit2ends */}
@@ -156,7 +149,7 @@ const Home = () => {
 				<div className="layer">
 					<h2>ANNIVERSARY AMORE</h2>
 					<p>As special as the bond that blooms</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
 			<div className="work">
@@ -164,11 +157,11 @@ const Home = () => {
 				<div className="layer">
 					<h2>BEST WISHES</h2>
 					<p>Use the language of gift hampers to send your love</p>
-						<a href="#"><img src={sendicon} alt="send to" /></a>
+						<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={sendicon} alt="send to" /></a>
 				</div>
 			</div>
 		</div>
-		<a href="#" className="btn">See more</a>
+		<a href="https://kuna-rajesh.github.io/SampleRes/#portfolio" className="btn">See more</a>
 	</div>
 </div>
     {/* edit ends */}
@@ -242,7 +235,7 @@ const Home = () => {
         <div className="footercommunication">
           <a href ="https://m.facebook.com/profile.php?id=100092273835512&mibextid=LQQ" ><img src={footerfb} alt="No png found" className='footerimg' /></a>
           <img src={footerpintrest} alt="No png found" className='footerimg' />
-          <a href = ""><img src={footerinsta} alt="No png found" className='footerimg'/></a>
+          <a href = "https://kuna-rajesh.github.io/SampleRes/#portfolio"><img src={footerinsta} alt="No png found" className='footerimg'/></a>
           <img src={footertwitter} alt="No png found" className='footerimg'/>
         </div>
       </div>
