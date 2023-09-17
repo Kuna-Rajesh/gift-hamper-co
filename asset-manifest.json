@@ -1,35 +1,28 @@
 {
   "files": {
     "main.css": "/gift-hamper-co/static/css/main.c1b76760.css",
-    "main.js": "/gift-hamper-co/static/js/main.b41d7c26.js",
+    "main.js": "/gift-hamper-co/static/js/main.b7af6828.js",
     "static/js/787.073ba329.chunk.js": "/gift-hamper-co/static/js/787.073ba329.chunk.js",
-    "static/media/Home_left.webp": "/gift-hamper-co/static/media/Home_left.98a76472fb591e8b84d9.webp",
     "static/media/gHMAnniversery1.jpg": "/gift-hamper-co/static/media/gHMAnniversery1.63a0395e46a02974933f.jpg",
     "static/media/SurpriselovedOnes.png": "/gift-hamper-co/static/media/SurpriselovedOnes.3c112577930009607f13.png",
     "static/media/Perfectgift.webp": "/gift-hamper-co/static/media/Perfectgift.50edc306304d1c3e9ba7.webp",
     "static/media/anyOccasion.webp": "/gift-hamper-co/static/media/anyOccasion.836a9f13f7f0ad9b6d0f.webp",
-    "static/media/sec3i4.webp": "/gift-hamper-co/static/media/sec3i4.52898333c627ccf59193.webp",
-    "static/media/sec3i3.webp": "/gift-hamper-co/static/media/sec3i3.4607122b2890382e0427.webp",
     "static/media/noMinOrder1.png": "/gift-hamper-co/static/media/noMinOrder1.55b28ee3a8e228f72891.png",
     "static/media/BirthdayHamper.webp": "/gift-hamper-co/static/media/BirthdayHamper.faf32297234716073a3b.webp",
     "static/media/giftHamperCo_Logo.jpg": "/gift-hamper-co/static/media/giftHamperCo_Logo.c92baa5b98b965f51522.jpg",
     "static/media/sec3i1.webp": "/gift-hamper-co/static/media/sec3i1.678a96e6e28f804bec22.webp",
     "static/media/sec3i2.webp": "/gift-hamper-co/static/media/sec3i2.1cf19677a994ea9be759.webp",
-    "static/media/sec2i3.webp": "/gift-hamper-co/static/media/sec2i3.a197e12ffce38d1e9bcf.webp",
-    "static/media/sec2i2.webp": "/gift-hamper-co/static/media/sec2i2.cdfa9d3da24243c21b97.webp",
-    "static/media/sec2i1.webp": "/gift-hamper-co/static/media/sec2i1.4c56b0cb0db148739d08.webp",
-    "static/media/footerlogo.webp": "/gift-hamper-co/static/media/footerlogo.a51e41c1905605308e6c.webp",
     "index.html": "/gift-hamper-co/index.html",
     "static/media/footerinsta.webp": "/gift-hamper-co/static/media/footerinsta.c3e332bc7c29dcbe59d7.webp",
     "static/media/footerpintrest.webp": "/gift-hamper-co/static/media/footerpintrest.a91667dcf01dee571361.webp",
     "static/media/footertwitter.webp": "/gift-hamper-co/static/media/footertwitter.89ce6d6ee1cc1330ab15.webp",
     "static/media/footerfb.webp": "/gift-hamper-co/static/media/footerfb.28fd0d772c7b049cdc30.webp",
     "main.c1b76760.css.map": "/gift-hamper-co/static/css/main.c1b76760.css.map",
-    "main.b41d7c26.js.map": "/gift-hamper-co/static/js/main.b41d7c26.js.map",
+    "main.b7af6828.js.map": "/gift-hamper-co/static/js/main.b7af6828.js.map",
     "787.073ba329.chunk.js.map": "/gift-hamper-co/static/js/787.073ba329.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1b76760.css",
-    "static/js/main.b41d7c26.js"
+    "static/js/main.b7af6828.js"
   ]
 }
