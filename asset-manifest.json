@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gift-hamper-co/static/css/main.c1b76760.css",
-    "main.js": "/gift-hamper-co/static/js/main.b7af6828.js",
+    "main.js": "/gift-hamper-co/static/js/main.2a8c5c95.js",
     "static/js/787.073ba329.chunk.js": "/gift-hamper-co/static/js/787.073ba329.chunk.js",
     "static/media/gHMAnniversery1.jpg": "/gift-hamper-co/static/media/gHMAnniversery1.63a0395e46a02974933f.jpg",
     "static/media/SurpriselovedOnes.png": "/gift-hamper-co/static/media/SurpriselovedOnes.3c112577930009607f13.png",
@@ -18,11 +18,11 @@
     "static/media/footertwitter.webp": "/gift-hamper-co/static/media/footertwitter.89ce6d6ee1cc1330ab15.webp",
     "static/media/footerfb.webp": "/gift-hamper-co/static/media/footerfb.28fd0d772c7b049cdc30.webp",
     "main.c1b76760.css.map": "/gift-hamper-co/static/css/main.c1b76760.css.map",
-    "main.b7af6828.js.map": "/gift-hamper-co/static/js/main.b7af6828.js.map",
+    "main.2a8c5c95.js.map": "/gift-hamper-co/static/js/main.2a8c5c95.js.map",
     "787.073ba329.chunk.js.map": "/gift-hamper-co/static/js/787.073ba329.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1b76760.css",
-    "static/js/main.b7af6828.js"
+    "static/js/main.2a8c5c95.js"
   ]
 }
